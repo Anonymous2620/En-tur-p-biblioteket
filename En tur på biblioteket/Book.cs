@@ -8,7 +8,6 @@ namespace En_tur_på_biblioteket
 {
     class Book
     {
-        //Here are both my list for borrowing books and all the books.
         public static List<string> book = new List<string>();
         public static List<string> borrowBook = new List<string>();
 
