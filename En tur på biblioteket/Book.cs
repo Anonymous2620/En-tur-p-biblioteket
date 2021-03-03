@@ -17,7 +17,7 @@ namespace En_tur_på_biblioteket
             book.Add(name);
         }
 
-        public void AddAllBooks()//Here is my list of books that can be borowed.
+        public void AddAllBooks()//Here is the list of books that can be borowed.
         {
             book.Add("Harry Potter and the Philosopher's Stone");
             book.Add("Harry Potter and the Chamber of Secrets");
